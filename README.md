@@ -3,17 +3,10 @@
 **Hello! This is the repository for my microbit assignment in school. Feel free to try them out.**
 
 ## Bird Game
-[Link to repository](https://github.com/TheAlphaDev/makecode-bird-game)
-
----
-
+[Website](https://thealphadev.github.io/makecode-bird-game)
 ## Pacman
-[Link to repository](https://github.com/TheAlphaDev/makecode-pacman)
-
----
-
+[Website](https://thealphadev.github.io/makecode-pacman)
 ## Nametag
-[Link to repository](https://github.com/TheAlphaDev/makecode-nametag)
+[Website](https://thealphadev.github.io/makecode-nametag)
 
----
 Please make a pull request if you want to add content. Thanks!
